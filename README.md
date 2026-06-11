@@ -1,31 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shubham%20Dagar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Web%20Developer%20|%20Open%20Source%20Learner&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:141E30,50:243B55,100:0F2027&text=Sarthak%20Dagar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Java%20Developer%20|%20Web%20Developer%20|%20Backend%20Learner&descAlignY=58"/>
 </p>
 
-<h1 align="center">Hey 👋, I'm Shubham Dagar</h1>
+<h1 align="center">Hey 👋, I'm Sarthak Dagar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer;Frontend+Developer;Backend+Learner;Building+Real+World+Projects;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;Frontend+Developer;Backend+Development+Learner;Building+Real+World+Projects;Open+Source+Enthusiast"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="170" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-💻 Passionate about Software Development  
+💻 Passionate about Web Development  
 🚀 Currently learning Java & Backend Development  
 🌱 Exploring Full Stack Development  
-🎯 Goal: Become a Professional Full Stack Developer  
-⚡ Love building real-world projects  
+🎯 Goal: Become a Professional Software Developer  
+⚡ Love building real-world projects and solving problems  
 
 ---
 
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,mysql,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,c,mysql,github,vscode,git"/>
 </p>
 
 ---
@@ -33,8 +33,9 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhamdagar9854&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdagar9854&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sarthak-dagar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-dagar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -42,7 +43,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamdagar9854&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak-dagar&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -50,7 +51,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shubhamdagar9854&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sarthak-dagar&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -69,7 +70,7 @@ Smart event scheduling web application.
 <td width="50%">
 
 ## 🔹 LRU Cache System
-Efficient cache management system.
+Efficient cache management project.
 
 </td>
 </tr>
@@ -85,7 +86,7 @@ Full-stack job application platform.
 <td width="50%">
 
 ## 🔹 Portfolio Website
-Personal responsive portfolio website.
+Modern responsive developer portfolio.
 
 </td>
 </tr>
@@ -96,7 +97,7 @@ Personal responsive portfolio website.
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/shubhamdagar9854">
+<a href="https://github.com/sarthak-dagar">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 </p>
@@ -104,11 +105,11 @@ Personal responsive portfolio website.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamdagar9854&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=sarthak-dagar&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 <p align="center">
-⭐ From <a href="https://github.com/shubhamdagar9854">Shubham Dagar</a>
+⭐ From <a href="https://github.com/sarthak-dagar">Sarthak Dagar</a>
 </p>
