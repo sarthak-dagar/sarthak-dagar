@@ -51,7 +51,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sarthak-dagar&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sarthak-dagar&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
 ---
