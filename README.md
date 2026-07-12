@@ -95,7 +95,7 @@ Modern responsive developer portfolio.
 </a>
 </p>
 <p align="center">
-<a href="[https://github.com/sarthak-dagar](https://www.linkedin.com/in/sarthak-dagar0000/)">
+<a href="https://www.linkedin.com/in/sarthak-dagar0000/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 </p>
