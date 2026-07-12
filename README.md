@@ -94,6 +94,16 @@ Modern responsive developer portfolio.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 </p>
+<p align="center">
+<a href="[https://github.com/sarthak-dagar](https://www.linkedin.com/in/sarthak-dagar0000/)">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
+<p align="center">
+<a href="https://discord.com">
+<img src="https://skillicons.dev/icons?i=discord"/>
+</a>
+</p>
 
 ---
 
