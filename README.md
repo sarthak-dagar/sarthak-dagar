@@ -1,108 +1,115 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:141E30,50:243B55,100:0F2027&text=Sarthak%20Dagar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Java%20Developer%20|%20Web%20Developer%20|%20Backend%20Learner&descAlignY=58"/>
-</p>
+# Hi 👋, I'm Sarthak Dagar
 
-<h1 align="center">Hey 👋, I'm Sarthak Dagar</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;Frontend+Developer;Backend+Development+Learner;Building+Real+World+Projects;Open+Source+Enthusiast"/>
-</p>
+### 🚀 Full Stack Developer | Java | Spring Boot | React | MERN | Microservices
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+%7C+Node.js+Developer;Microservices+Enthusiast;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-<img align="right" height="170" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-💻 Passionate about Web Development  
-🚀 Currently learning Java & Backend Development  
-🌱 Exploring Full Stack Development  
-🎯 Goal: Become a Professional Software Developer  
-⚡ Love building real-world projects and solving problems  
+- 🎓 B.Tech CSE (Data Science)
+- 💼 Passionate Full Stack Developer
+- 🌱 Currently Learning **Spring Boot, Microservices & System Design**
+- ⚡ Love Building Scalable Applications
+- 🎯 Goal: Become Software Engineer at Product Based Company
 
 ---
 
 # 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,c,mysql,github,vscode,git"/>
-</p>
+### Languages
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Python](https://skillicons.dev/icons?i=python)
+
+### Frontend
+![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+### Backend
+![Spring](https://skillicons.dev/icons?i=spring)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+
+### Database
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Postman](https://skillicons.dev/icons?i=postman)
+
+---
+
+# 🚀 Featured Projects
+
+### 🍔 Cold Rush
+Modern Food Ordering Platform
+
+### 📄 Smart Resume Scanner
+AI Powered Resume Screening
+
+### 🏢 Enterprise Pro Manager
+Enterprise Project Management System
+
+### 🛒 Food Delivery Website
+Responsive Food Ordering Website
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sarthak-dagar&show_icons=true&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-stats.vercel.app/api?username=sarthak-dagar&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-dagar&theme=tokyonight&hide_border=true"/>
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sarthak-dagar&theme=tokyonight&hide_border=true)
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak-dagar&theme=tokyo-night&hide_border=true"/>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-dagar&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
+# 🏆 GitHub Trophies
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-## 🔹 Event Scheduler
-Smart event scheduling web application.
-
-</td>
-
-<td width="50%">
-
-## 🔹 LRU Cache System
-Efficient cache management project.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🔹 Job Portal
-Full-stack job application platform.
-
-</td>
-
-<td width="50%">
-
-## 🔹 Portfolio Website
-Modern responsive developer portfolio.
-
-</td>
-</tr>
-</table>
+![](https://github-profile-trophy.vercel.app/?username=sarthak-dagar&theme=tokyonight&margin-w=15&margin-h=15)
 
 ---
 
-# 🌐 Connect With Me
+## 📈 Contribution Graph
 
-<p align="center">
+![](https://github-readme-activity-graph.vercel.app/graph?username=sarthak-dagar&theme=tokyo-night)
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
 <a href="https://github.com/sarthak-dagar">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
 <img src="https://komarev.com/ghpvc/?username=sarthak-dagar&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
 
----
-
-<p align="center">
-⭐ From <a href="https://github.com/sarthak-dagar">Sarthak Dagar</a>
-</p>
+</div>
