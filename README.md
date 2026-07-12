@@ -1,110 +1,98 @@
+# Hi 👋, I'm Sarthak Dagar
+
 <div align="center">
 
-# 👋 Hi, I'm Sarthak Dagar
+### 🚀 Full Stack Developer | Java | Spring Boot | React | MERN | Microservices
 
-### 🚀 Full Stack Developer • Java • Spring Boot • React • MERN
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%7C+Spring+Boot;React+Developer;Microservices+Enthusiast;System+Design+Learner;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+%7C+Node.js+Developer;Microservices+Enthusiast;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-```java
-class SarthakDagar {
-
-    String role = "Full Stack Developer";
-
-    String[] skills = {
-        "Java",
-        "Spring Boot",
-        "React",
-        "Node.js",
-        "MongoDB",
-        "PostgreSQL",
-        "Docker"
-    };
-
-    String learning = "Microservices & System Design";
-
-    String goal = "Software Engineer @ Product Based Company";
-
-}
-```
+- 🎓 B.Tech CSE (Data Science)
+- 💼 Passionate Full Stack Developer
+- 🌱 Currently Learning **Spring Boot, Microservices & System Design**
+- ⚡ Love Building Scalable Applications
+- 🎯 Goal: Become Software Engineer at Product Based Company
 
 ---
 
-# ⚡ Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
+### Languages
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Python](https://skillicons.dev/icons?i=python)
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,postgresql,mysql,docker,git,github,vscode,postman,python,html,css,tailwind"/>
+### Frontend
+![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-</p>
+### Backend
+![Spring](https://skillicons.dev/icons?i=spring)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
----
+### Database
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sarthak-dagar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-dagar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sarthak-dagar&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak-dagar&theme=tokyo-night"/>
-
----
-
-# 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=sarthak-dagar&theme=tokyonight&margin-w=15"/>
+### Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Postman](https://skillicons.dev/icons?i=postman)
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🍔 Cold Rush | Food Ordering Platform |
-| 🛒 Food Delivery Website | Responsive MERN Website |
-| 📄 Smart Resume Scanner | AI Resume Screening |
-| 🏢 Enterprise Pro Manager | Enterprise Management |
-| 🌐 Portfolio | Personal Portfolio Website |
+### 🍔 Cold Rush
+Modern Food Ordering Platform
+
+### 📄 Smart Resume Scanner
+AI Powered Resume Screening
+
+### 🏢 Enterprise Pro Manager
+Enterprise Project Management System
+
+### 🛒 Food Delivery Website
+Responsive Food Ordering Website
 
 ---
 
-# 🌱 Currently Learning
+# 📊 GitHub Stats
 
-- Spring Boot
-- Microservices
-- Docker
-- Kubernetes
-- System Design
+![](https://github-readme-stats.vercel.app/api?username=sarthak-dagar&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sarthak-dagar&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-dagar&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-# 📫 Connect With Me
+# 🏆 GitHub Trophies
 
-<p align="center">
+![](https://github-profile-trophy.vercel.app/?username=sarthak-dagar&theme=tokyonight&margin-w=15&margin-h=15)
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=sarthak-dagar&theme=tokyo-night)
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
 
 <a href="https://github.com/sarthak-dagar">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -114,24 +102,14 @@ class SarthakDagar {
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/sarthak-dagar/sarthak-dagar/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+### ⭐ Thanks for visiting my profile ⭐
 
----
+<img src="https://komarev.com/ghpvc/?username=sarthak-dagar&label=Profile%20Views&color=0e75b6&style=flat"/>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sarthak-dagar&style=for-the-badge"/>
-
-</p>
+</div>
