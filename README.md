@@ -35,7 +35,7 @@
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sarthak-dagar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-dagar&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=sarthak-dagar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -89,17 +89,13 @@ Modern responsive developer portfolio.
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p align="center" style="display:flex;justify-content:center;align-items:center;gap:30px">
 <a href="https://github.com/sarthak-dagar">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-</p>
-<p align="center">
 <a href="https://www.linkedin.com/in/sarthak-dagar0000/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-</p>
-<p align="center">
 <a href="https://discord.com">
 <img src="https://skillicons.dev/icons?i=discord"/>
 </a>
