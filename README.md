@@ -35,7 +35,7 @@
 <p align="center">
 <img height="170" src="https://github-readme-stats.shion.dev/api?username=sarthak-dagar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com/?user=sarthak-dagar&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=sarthak-dagar&theme=tokyonight&hide_border=true&v=2"/>
 </p>
 
 ---
